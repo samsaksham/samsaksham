@@ -8,7 +8,6 @@ I'm a Full stack developer and  I love sharing what I know through [my blog](htt
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samsaksham&repo=Quiz-App)](https://github.com/samsaksham/Quiz-App)
 [![ReadMe Card](https://github.com/samsaksham/Voice-Controlled-React-News-Application)
 
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samsaksham&repo=BMI-Calculator-Apk)](https://github.com/samsaksham/BMI-Calculator-Apk)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samsaksham&repo=Basic-Nmap-Scanner)](https://github.com/samsaksham/Basic-Nmap-Scanner)
 
